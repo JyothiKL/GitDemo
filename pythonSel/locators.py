@@ -41,7 +41,9 @@ driver.find_element(By.XPATH,"(//input[@type='text'])[3]").clear()
 
 
 
-
+print("Success1")
+print("Success2")
+print("Success3")
 
 
 

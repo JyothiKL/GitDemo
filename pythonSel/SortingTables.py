@@ -19,4 +19,8 @@ browserSortedVeggies.sort()
 
 assert browserSortedVeggies == originalBrowserSortedList
 
+print("Success1")
+print("Success2")
+print("Success3")
+
 

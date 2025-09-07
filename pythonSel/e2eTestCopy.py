@@ -35,4 +35,8 @@ assert "Success! Thank you!" in successText
 
 driver.get_screenshot_as_file("screen.png")
 
+print("Success1")
+print("Success2")
+print("Success3")
+
 
